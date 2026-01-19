@@ -105,7 +105,7 @@ The project follows an **end-to-end statistical workflow**, ensuring appropriate
 
 | File Name | Description |
 | --------- | ----------- |
-| `statistics_project.py / .ipynb` | Complete statistical analysis code |
+| `statistics_project.ipynb` | Complete statistical analysis code |
 | `statistics_project.pdf` | Project report and explanation |
 | `README.md` | Project documentation |
 | Dataset Files | Raw and processed datasets |
